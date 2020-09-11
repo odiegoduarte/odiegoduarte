@@ -1,11 +1,9 @@
-<br>
+
 <p align="center">
-  <img width="800" height="450" src="https://i.imgur.com/j4OWddc.gif">
+  <img width="850" height="470" src="https://i.imgur.com/j4OWddc.gif">
 </p>
-
-
-
 <br>
+
 
 <!--
 **odiegoduarte/odiegoduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
