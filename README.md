@@ -1,3 +1,8 @@
+<br>
+<p align="center">
+  <img width="850" height="235" src="assets/header.png">
+</p>
+<br>
 
 <p align="center">
   <img width="850" height="470" src="assets/home.gif">
