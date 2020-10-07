@@ -4,11 +4,12 @@
 </p>
 <br>
 
-<p align="center">
-  <img width="850" height="470" src="assets/home.gif">
-</p>
-<br>
 
+
+
+<br><br><br>
+![](https://komarev.com/ghpvc/?username=odiegoduarte)
+<br>
 
 <!--
 **odiegoduarte/odiegoduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p align="center">
+  <img width="850" height="470" src="assets/home.gif">
+</p>
+<br>
+
 -->
