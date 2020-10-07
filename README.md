@@ -4,7 +4,7 @@
 </p>
 <br>
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=odiegoduarte&count_private=true&show_icons=true&hide=issues)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoduarte&layout=compact)
 
 
 <br><br><br>
